@@ -1,8 +1,8 @@
 # make.fun · X Reposts — @Squisymoe's 7 replies
 
 [![make.fun · makefun-x-reposts-02](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
-[![rank](https://make.fun/badge/makefun-x-reposts-02/hackedbyexteam-debug/makefun-x-reposts-02/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
-[![reward](https://make.fun/badge/makefun-x-reposts-02/hackedbyexteam-debug/makefun-x-reposts-02/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![rank](https://make.fun/badge/makefun-x-reposts-02/hackedbyexteam-debug/makefun-x-reposts-02-v2/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![reward](https://make.fun/badge/makefun-x-reposts-02/hackedbyexteam-debug/makefun-x-reposts-02-v2/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
 
 One-line entry for make.fun — Get the most reposts and likes on make.fun's newest X posts bounty, $500 in USDC.
 
